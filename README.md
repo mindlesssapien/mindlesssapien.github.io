@@ -10,6 +10,6 @@ I enjoy machine learning, software engineering, system design, and reading resea
 Currently trying to become the kind of engineer who reads the documentation *before* debugging for two hours.
 
 I asked claude to generate flashcards on OS and some reason it gave me an html file so 
-I thought that I should finally be a man and contribute to the society.
+I thought that I should finally be a man and contribute to society.
 So here it is [os-flashcards](https://mindlesssapien.github.io/os-flashcards).
 FYI : not asthetically pleasing at all.
