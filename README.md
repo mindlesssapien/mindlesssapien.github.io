@@ -2,14 +2,32 @@
 
 ### lore
 
-Hey! My name is aaditya aka mindlesssapien on the internet.
-I waste a lot of time daydreaming and thinking about plans, actions instead of doing actaully them but when i do return back to reality
-I like to build software, train machine learning models, solve algorithmic problems(70% of the time).
-I use Linux by choice, which means I spend 20% of my time programming and 80% explaining why my setup is objectively superior.
-I enjoy machine learning, software engineering, system design, and reading research papers that make me feel smart for approximately three minutes.
-Currently trying to become the kind of engineer who reads the documentation *before* debugging for two hours.
+# Hey!
 
-I asked claude to generate flashcards on OS and some reason it gave me an html file so 
-I thought that I should finally be a man and contribute to society.
-So here it is [os-flashcards](https://mindlesssapien.github.io/os-flashcards).
-FYI : not asthetically pleasing at all.
+My name is aaditya aka mindlesssapien on the internet.
+
+I waste a lot of time daydreaming and making elaborate plans instead of actually doing them. Every once in a while, though, reality catches up with me and i then like to building software, training machine learning models, and solving algorithmic problems (roughly 70% of the time).
+
+I use Linux by choice, which means I spend 20% of my time programming and 80% of my time explaining why my setup is objectively superior.
+
+I enjoy machine learning, software engineering, system design, and reading research papers that make me feel smart for approximately three minutes before I realize I understood only the abstract.
+
+Currently trying to become the kind of engineer who reads the documentation *before* spending two hours debugging.
+
+---
+
+### OS Flashcards
+
+I asked Claude to generate some flashcards for Operating Systems. For reasons beyond my understanding, it responded with an entire HTML file.
+
+At that moment I decided it was finally time to contribute something to society.
+
+So here it is: [os-flashcards](https://mindlesssapien.github.io/os-flashcards).
+
+Fair warning:
+
+* The content is useful.
+* The UI exists.
+* Aesthetics were sacrificed in the process.
+
+If you're studying Operating Systems and don't mind a website that looks like it was engineered by a sleep-deprived CS student, feel free to use it.
