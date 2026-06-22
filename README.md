@@ -10,8 +10,6 @@ I enjoy machine learning, software engineering, system design, and reading resea
 
 I waste a lot of time daydreaming and making elaborate plans instead of actually doing them. Every once in a while, though, reality catches up with me and i then like to building software, training machine learning models, and solving algorithmic problems (roughly 70% of the time).
 
-I use Linux by choice, which means I spend 20% of my time programming and 80% of my time explaining why my setup is objectively superior.
-
 Currently trying to become the kind of engineer who reads the documentation *before* spending two hours debugging.
 
 ---
